@@ -194,6 +194,12 @@ Analyst Cannot Delete — Prevents accidental data loss
 User Can Delete Own Transactions — Gives full control over personal records
 Dynamic Charts — All charts are generated from actual transaction data
 
+## 🎥 Project Demo Video
+
+Click the image below to watch the full project demo:
+
+[![FinanceBuddy Demo](screenshots/dashboard.png)](screenshots/financebuddy-preview.mp4)
+
 ## 🖼 Screenshots
 
 ### 🔐 Login Page
