@@ -178,4 +178,22 @@ Analyst Cannot Delete — Prevents accidental data loss
 User Can Delete Own Transactions — Gives full control over personal records
 Dynamic Charts — All charts are generated from actual transaction data
 
-### Screenshots
+## 🖼 Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 📝 Register Page
+![Register Page](screenshots/register.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 💸 Transactions Page
+![Transactions Page](screenshots/transactions.png)
+
+### 📈 Reports Page
+![Reports Page](screenshots/reports.png)
+
+### 👥 Users Page
+![Users Page](screenshots/users.png)
