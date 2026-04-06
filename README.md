@@ -114,8 +114,6 @@ The application can be easily extended and connected to a real database like **M
 
 ## 📁 Project Structure
 
-<details>
-<summary>Click to expand full project structure</summary>
 
 <pre>
 financebuddy/
@@ -159,7 +157,6 @@ financebuddy/
 └── pom.xml
 </pre>
 
-</details>
 
 
 ## 📄 Pages
