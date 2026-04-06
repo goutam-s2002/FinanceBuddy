@@ -198,13 +198,19 @@ Dynamic Charts — All charts are generated from actual transaction data
 
 Click the image below to watch the full project demo:
 
-[![FinanceBuddy Demo](screenshots/login.png)](https://drive.google.com/file/d/14IVtBgfDWk3OYJfQP1piPNjkaWBk1AL7/view)
+<p>
+  <a href="https://drive.google.com/file/d/14IVtBgfDWk3OYJfQP1piPNjkaWBk1AL7/view" target="_blank">
+    <img src="screenshots/login.png" alt="FinanceBuddy Demo" width="700"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://drive.google.com/file/d/14IVtBgfDWk3OYJfQP1piPNjkaWBk1AL7/view" target="_blank">
+    ▶️ Watch FinanceBuddy Demo Video
+  </a>
+</p>
 
 
-<a href="https://drive.google.com/file/d/14IVtBgfDWk3OYJfQP1piPNjkaWBk1AL7/view" target="_blank">
-  ▶️ Watch FinanceBuddy Demo Video
-   <img src="screenshots/login.png" alt="FinanceBuddy Demo" width="700"/>
-</a>
 ## 🖼 Screenshots
 
 ### 🔐 Login Page
