@@ -112,8 +112,9 @@ The application can be easily extended and connected to a real database like **M
 4. Run `FinancebuddyApplication.java` as a **Spring Boot App**.
 5. Open your browser and go to: http://localhost:8080/login
 
-### Project Structure
+## 📁 Project Structure
 
+```bash
 financebuddy/
 ├── src/main/java/com/finance/financebuddy/
 │   ├── FinancebuddyApplication.java
@@ -144,7 +145,15 @@ financebuddy/
 │   └── navbar.jsp
 ├── src/main/resources/
 │   └── application.properties
-└── pom.xml
+├── screenshots/
+│   ├── login.png
+│   ├── register.png
+│   ├── dashboard.png
+│   ├── transactions.png
+│   ├── reports.png
+│   └── users.png
+├── README.md
+└── pom.xml 
 
 ### 📄 Pages
 1. Login Page
