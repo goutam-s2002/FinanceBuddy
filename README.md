@@ -112,7 +112,7 @@ The application can be easily extended and connected to a real database like **M
 4. Run `FinancebuddyApplication.java` as a **Spring Boot App**.
 5. Open your browser and go to: http://localhost:8080/login
 
-### 📁 Project Structure
+## 📁 Project Structure
 
 ```bash
 financebuddy/
@@ -156,7 +156,7 @@ financebuddy/
 └── pom.xml
 
 
-### 📄 Pages
+## 📄 Pages
 1. Login Page
   Clean interface with demo username and password
   Register option for new users
@@ -181,7 +181,7 @@ financebuddy/
   Add new user with role
   Edit user role and status
 
-###💡 Important Points
+##💡 Important Points
 Mock Storage — Uses Java Collections instead of a real database for simplicity
 No Password Encryption — Passwords are stored as plain text for testing only
 Analyst Cannot Delete — Prevents accidental data loss
