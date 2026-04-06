@@ -198,7 +198,7 @@ Dynamic Charts — All charts are generated from actual transaction data
 
 Click the image below to watch the full project demo:
 
-[![FinanceBuddy Demo](screenshots/login.png)](screenshots/financebuddy-preview.mp4)
+[![FinanceBuddy Demo](screenshots/login.png)](https://drive.google.com/file/d/14IVtBgfDWk3OYJfQP1piPNjkaWBk1AL7/view)
 
 ## 🖼 Screenshots
 
