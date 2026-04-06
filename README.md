@@ -114,7 +114,10 @@ The application can be easily extended and connected to a real database like **M
 
 ## 📁 Project Structure
 
-```bash
+<details>
+<summary>Click to expand full project structure</summary>
+
+<pre>
 financebuddy/
 ├── src/main/java/com/finance/financebuddy/
 │   ├── FinancebuddyApplication.java
@@ -154,6 +157,9 @@ financebuddy/
 │   └── users.png
 ├── README.md
 └── pom.xml
+</pre>
+
+</details>
 
 
 ## 📄 Pages
