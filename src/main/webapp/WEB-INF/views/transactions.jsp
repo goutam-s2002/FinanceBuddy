@@ -229,8 +229,8 @@ th {
 					<option value="INCOME" ${param.type == 'INCOME' ? 'selected' : ''}>Income</option>
 					<option value="EXPENSE" ${param.type == 'EXPENSE' ? 'selected' : ''}>Expense</option>
 				</select>
-				<input type="date" name="startDate" value="${param.startDate}">
-				<input type="date" name="endDate" value="${param.endDate}">
+				<input type="date" name="startDate" placeholder="Start Date"  value="${param.startDate}">
+				<input type="date" name="endDate" placeholder="End Date" value="${param.endDate}">
 				<button type="submit"><i class="fas fa-search"></i> Search</button>
 				
 			</form>

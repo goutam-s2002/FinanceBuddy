@@ -286,8 +286,8 @@ td {
 		<!-- Filter Bar -->
 		<div class="filter-bar">
 			<form action="/reports" method="get" class="filter-form">
-				<input type="date" name="startDate"> 
-				<input type="date" name="endDate">
+				<input type="date" name="startDate" placeholder="Start Date"> 
+				<input type="date" name="endDate" placeholder="End Date">
 				<button type="submit">
 					Submit
 				</button>

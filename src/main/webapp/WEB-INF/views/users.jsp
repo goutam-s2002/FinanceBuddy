@@ -43,6 +43,9 @@ body {
 	padding: 24px;
 	margin-bottom: 24px;
 }
+.table-card{
+	overflow-x: auto;
+}
 
 .add-card h3, .table-card h3 {
 	margin-bottom: 16px;

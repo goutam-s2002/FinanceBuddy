@@ -128,6 +128,7 @@ canvas {
 	border-radius: 16px;
 	padding: 24px;
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+	overflow-x: auto;
 }
 
 .recent-card h3 {
@@ -186,8 +187,8 @@ th {
 		<div class="filter-bar">
 			<form action="/dashboard" method="get"
 				style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
-				<input type="date" name="startDate" > <input
-					type="date" name="endDate" >
+				<input type="date" name="startDate" placeholder="Start Date"> <input
+					type="date" name="endDate" placeholder="End Date">
 				<button type="submit">
 					Submit
 				</button>
